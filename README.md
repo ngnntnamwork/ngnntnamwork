@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Nguyen Nhat Nam  
-
 ## 🎯 **Aspiring Data Analyst** | 📊 Data-Driven Thinker | 🧠 Problem Solver  
 
 - Highly analytical and goal-oriented professional transitioning to **Data Analyst**.  
