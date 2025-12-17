@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nguyen Nhat Nam  
 
-🎯 **Aspiring Data Analyst** | 📊 Data-Driven Thinker | 🧠 Problem Solver  
+## 🎯 **Aspiring Data Analyst** | 📊 Data-Driven Thinker | 🧠 Problem Solver  
 
 - Highly analytical and goal-oriented professional transitioning to **Data Analyst**.  
 - Proficient in **SQL, Python, and Power BI**, with a strong foundation in **data-driven decision-making**.  
