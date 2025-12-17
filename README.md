@@ -18,35 +18,20 @@
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
 
-### 📊 Data Analysis & Visualization
-- Data Analysis  
-- Data Visualization  
-- Data Storytelling  
+**📊 Data:** Analysis · Visualization · Storytelling  
+**🔧 Tools:** Power BI · Excel · Google Sheets · MS Office  
+**🧑‍💻 Programming:** SQL · Python (Pandas, NumPy, Matplotlib)
 
-### 🔧 Tools
-- **Power BI**  
-- Excel / Google Sheets  
-- Microsoft Office (Word, PowerPoint)  
-
-### 🧑‍💻 Programming
-- **SQL**
-- - **Python**: Pandas, NumPy, Matplotlib  
-
----
-
-## 🤝 Soft Skills
-- ⏱️ Time Management  
-- 🗣️ Communication  
-- 🤝 Stakeholder Management  
+**🤝 Soft Skills:** Time Management · Communication · Stakeholder Management
 
 ---
 
 ## 📈 What I'm Working On
-- Improving SQL querying & optimization  
-- Creating interactive dashboards using Power BI
-- Building data analysis projects with Python  
+- Strengthening advanced SQL querying and optimization skills  
+- Developing impactful, interactive dashboards with Power BI  
+- Scaling data analysis solutions through Python-based projects
 
 ---
 
