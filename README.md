@@ -23,6 +23,7 @@
 **📊 Data:** Analysis · Visualization · Storytelling  
 **🔧 Tools:** Power BI · Excel · Google Sheets · MS Office  
 **🧑‍💻 Programming:** SQL · Python (Pandas, NumPy, Matplotlib)
+
 **🤝 Soft Skills:** Time Management · Communication · Stakeholder Management
 
 ---
