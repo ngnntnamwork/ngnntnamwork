@@ -36,3 +36,4 @@
 
 ## 📌 Let's Connect!
 Feel free to reach out if you'd like to collaborate, discuss data projects, or just talk about analytics 🚀
+![alt](https://drive.google.com/file/d/13pXm8Tw8nuDOY1W1JYUAfogbTCmh7MI-/view?usp=sharing)
