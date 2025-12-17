@@ -13,8 +13,8 @@ Passionate about solving complex business problems through data analysis.
 - 📌 Location: Ho Chi Minh City, Vietnam  
 - 📧 Email: ngnntnamwork@gmail.com  
 - 📞 Phone: 0935 248 495  
-- 💼 LinkedIn: *(add your LinkedIn link here)*  
-- 💻 GitHub: *(this profile)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/nhatnam0105/
+- 💻 GitHub: (https://github.com/ngnntnamwork)
 
 ---
 
