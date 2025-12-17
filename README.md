@@ -13,9 +13,8 @@
 - 📌 Location: Ho Chi Minh City, Vietnam  
 - 📧 Email: ngnntnamwork@gmail.com  
 - 📞 Phone: 0935 248 495  
-- 💼 **LinkedIn:** [nhatnam0105](https://www.linkedin.com/in/nhatnam0105/)
-- 💻 **GitHub:** [ngnntnamwork](https://github.com/ngnntnamwork)
-- 💼 **[LinkedIn](https://www.linkedin.com/in/nhatnam0105/)** 
+- 💼 **[LinkedIn](https://www.linkedin.com/in/nhatnam0105/)**
+- 💻 **[GitHub](https://github.com/ngnntnamwork)**
 
 ---
 
