@@ -34,15 +34,15 @@ Data Analyst with hands-on experience building Power BI dashboards and querying 
 - Applied cohort analysis to track customer retention trends
 - Generated insights supporting inventory optimization and sales growth
 
-### 🌍 Global Superstore Sales Analysis — [Power BI](link)
+### 🌍 Global Superstore Sales Analysis — Power BI
 - Built dashboards tracking revenue growth, profit margin, orders, and return rates
 - Analyzed regional profitability and YoY growth trends for management reporting
 
-### 👗 Fashion Marketing & Sales Analysis — [Power BI](link)
+### 👗 Fashion Marketing & Sales Analysis — Power BI
 - Tracked ROAS, CPC/CTR trends, and ad spend efficiency across campaigns
 - Compared ads vs. direct sales performance with interactive dashboards
 
-### 👥 HR Workforce Dashboard — [Power BI](link)
+### 👥 HR Workforce Dashboard — Power BI
 - Monitored turnover rate (34.9%), salary expenses, tenure, and satisfaction scores
 - Visualized workforce structure by age, gender, and departure reasons
 
