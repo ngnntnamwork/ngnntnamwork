@@ -1,7 +1,11 @@
 # 👋 Hi, I'm Nguyen Nhat Nam
 🎯 **Data Analyst** | 📊 Power BI · SQL · Python | 🏙️ Ho Chi Minh City, Vietnam
 
-Data Analyst with hands-on experience building Power BI dashboards and querying large-scale datasets using SQL and ClickHouse. Passionate about turning raw data into actionable insights that drive real business decisions — across Marketing, Finance, and Operations.
+Data Analyst with a background in IT recruitment, bringing hands-on experience in KPI monitoring, performance tracking, and cross-functional collaboration across Marketing, Finance, and Operations.
+
+Proficient in SQL, Python, and Power BI — with practical experience querying large-scale datasets (ClickHouse, BigQuery) and building interactive dashboards that turn raw data into actionable business insights.
+
+Particularly interested in E-commerce, HR, and Marketing analytics, with a focus on supporting data-informed decision-making and driving measurable business impact.
 
 ---
 
