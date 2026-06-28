@@ -55,7 +55,7 @@ Particularly interested in E-commerce, HR, and Marketing analytics, with a focus
 ## 🚀 Currently Working On
 - Deepening ClickHouse querying skills for large-scale data pipelines
 - Automating reporting workflows with AI-assisted tools
-- Expanding Python projects for end-to-end data analysis
+- Practicing Python projects for end-to-end data analysis
 
 ---
 
